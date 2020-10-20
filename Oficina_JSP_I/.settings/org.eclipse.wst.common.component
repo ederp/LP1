@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="Oficina_JSP_I">
-        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
-        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="Oficina_JSP_I"/>
-        <property name="java-output-path" value="/Oficina_JSP_I/build/classes"/>
-    </wb-module>
-</project-modules>
